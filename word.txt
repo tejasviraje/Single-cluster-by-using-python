@@ -1,0 +1,9 @@
+cat 
+flower
+house
+mouse
+cat
+cat
+Dog
+house
+mouse
